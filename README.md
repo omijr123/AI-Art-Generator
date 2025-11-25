@@ -41,11 +41,22 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ![pic1](https://i.postimg.cc/3N9kqvYG/1.jpg)
 ![pic2](https://i.postimg.cc/05ZrP71G/2.jpg)
 
+
+
 ### -- Android Studio Working Space --
 
+
 ![pic3](https://i.postimg.cc/PxXhRFx6/1.png)
+
+
+
 ![pic4](https://i.postimg.cc/1zyLmVZT/2.png)
+
+
+
 ![pic5](https://i.postimg.cc/bvC849td/5.png)
+
+
 
 ### -- Android Studio (Results Screen) --
 
