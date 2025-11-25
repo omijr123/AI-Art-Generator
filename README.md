@@ -122,9 +122,9 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 
 ### 🖼️ Images Output
 
-* ![img](https://i.postimg.cc/ydWHX3W8/1.png)
+* ![img](https://i.postimg.cc/yNHDyZgq/Screenshot-2025-11-25-212742.png)
   
-* ![img](https://i.postimg.cc/HLkxRxj4/2.png)
+* ![img](https://i.postimg.cc/85LwnWwy/Screenshot-2025-11-25-212535.png)
 
 ### 🎥 Videos Output
 
