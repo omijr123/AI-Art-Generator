@@ -205,18 +205,19 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/CxHrsdwD/resize-17640896101777062339Screenshot20251125223603.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/pXkJ3sZT/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/R0tfCdcF/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/Sx2YVd1P/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/wxbB9cRP/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/gJ2YWnzP/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 </div>
 
 <hr>
+
 
 <h2>🚀 Features</h2>
 
