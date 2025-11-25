@@ -57,11 +57,11 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="60%">
+  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/bvC849td/5.png" width="60%">
+  <img src="https://i.postimg.cc/bvC849td/5.png" width="45%">
 </p>
 
 <h3>Results Screen</h3>
