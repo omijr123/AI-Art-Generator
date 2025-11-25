@@ -46,7 +46,7 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 <h3>App UI Interface</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/3N9kqvYG/1.jpg" width="45%">
+  <img src="https://i.postimg.cc/3N9kqvYG/1.jpg" width="80%">
   <img src="https://i.postimg.cc/05ZrP71G/2.jpg" width="45%">
 </p>
 
