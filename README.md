@@ -24,6 +24,7 @@
 ---
 
 
+
 ## 📸 Screenshots
 
 
@@ -39,8 +40,6 @@
 
 
 ![pic2](https://i.postimg.cc/05ZrP71G/2.jpg)
-
-
 
 
 
@@ -278,14 +277,6 @@ We love contributions! Here's how you can help:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
-
-**Omkar J**  
-*Full Stack Developer & Android Enthusiast*
-
-- GitHub: [@omijr123](https://github.com/omijr123)
-- Project: AI Art Generator - Web & Android
-- Technologies: Java, Android, Python, Flask, AI/ML
 
 ## 🙏 Acknowledgments
 
@@ -312,5 +303,5 @@ If you have any questions or need help with setup, please open an issue on GitHu
 
 ---
 
-*Last updated: December 2025*  
+*Last updated: November 2025*  
 *Built with ❤️ using Java, Android Studio, Python, and Flask*
