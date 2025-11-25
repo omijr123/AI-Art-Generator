@@ -177,28 +177,28 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/8sgc0mrt/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/63T0hnRJ/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/X7G9Wvq9/1-(1).png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/6Q0vc2bN/2-(1).png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/FRfySm59/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/t4XF5FGy/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/T2SWtX0X/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/ZqT9WYb7/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <h3>Category 5: Oil Painting</h3>
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/rw3FmLjL/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/0Q531zwV/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/3RXbnBMz/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/wTf4fMPM/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/wvbWK0HM/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/jSbYkdMq/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/KcLZySbw/1-(1).png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/bw6PRqHX/2-(1).png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <h3>Category 6: Sketch</h3>
