@@ -190,9 +190,9 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 
 ### 🎥 Videos Output
 
-* ![vid](https://i.postimg.cc/R0tfCdcF/1.png)
+![vid](https://i.postimg.cc/R0tfCdcF/1.png)
   
-* ![vid](https://i.postimg.cc/Sx2YVd1P/2.png)
+![vid](https://i.postimg.cc/Sx2YVd1P/2.png)
 
 ---
 
