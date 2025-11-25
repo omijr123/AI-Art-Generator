@@ -135,8 +135,8 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/nzvyjx3h/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/C1H2MNK0/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/RVj2Rq2n/1.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/5yDKnk7v/2.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <p align="center">
@@ -169,8 +169,8 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/gcTvKCtp/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/FRKLypjk/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/8PPCSXCV/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/NfzQwgVn/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <h3>Category 4: 3D Render</h3>
