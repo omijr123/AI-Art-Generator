@@ -23,6 +23,106 @@
 
 ---
 
+## 📸 Gallery
+
+### 📱 Android App Preview
+
+<div align="center">
+
+#### App UI Interface
+![Android UI 1](https://i.postimg.cc/3N9kqvYG/1.jpg)
+![Android UI 2](https://i.postimg.cc/05ZrP71G/2.jpg)
+
+#### Android Studio Working Space
+![Android Studio 1](https://i.postimg.cc/PxXhRFx6/1.png)
+![Android Studio 2](https://i.postimg.cc/1zyLmVZT/2.png)
+![Android Studio 3](https://i.postimg.cc/bvC849td/5.png)
+
+#### Android Studio Results Screen
+![Android Results](https://i.postimg.cc/g05QvShZ/7.png)
+
+</div>
+
+### 🌐 Web App Preview
+
+<div align="center">
+
+#### Web App UI Interface
+![Web UI 1](https://i.postimg.cc/d0HkndQR/1.png)
+![Web UI 2](https://i.postimg.cc/ncJz4TKT/2.png)
+
+#### VS Code Working Space
+![VS Code 1](https://i.postimg.cc/zfs5JX0j/1.png)
+![VS Code 2](https://i.postimg.cc/B65W458j/2.png)
+![VS Code 3](https://i.postimg.cc/13Vjy025/7.png)
+
+#### Generated Results
+![Web Results 1](https://i.postimg.cc/6pxdGdTT/9.png)
+![Web Results 2](https://i.postimg.cc/3W5DmT8G/10.png)
+
+</div>
+
+### 🎨 Output Results Preview
+
+<div align="center">
+
+#### Realistic Style
+**Images:**
+![Realistic Image 1](https://i.postimg.cc/BnDfmGqC/1.jpg)
+![Realistic Image 2](https://i.postimg.cc/0QCwm36B/2.jpg)
+
+**Videos:**
+![Realistic Video 1](https://i.postimg.cc/q7VhF02J/1.jpg)
+![Realistic Video 2](https://i.postimg.cc/B6NjtKkQ/2.png)
+
+#### Anime Style
+**Images:**
+![Anime Image 1](https://i.postimg.cc/ydWHX3W8/1.png)
+![Anime Image 2](https://i.postimg.cc/HLkxRxj4/2.png)
+
+**Videos:**
+![Anime Video 1](https://i.postimg.cc/2S8r8tmL/1.png)
+![Anime Video 2](https://i.postimg.cc/9FcjJk4j/2.png)
+
+#### Cinematic Style
+**Images:**
+![Cinematic Image 1](https://i.postimg.cc/mrfjyvDB/1.png)
+![Cinematic Image 2](https://i.postimg.cc/fTVvnzSs/2.png)
+
+**Videos:**
+![Cinematic Video 1](https://i.postimg.cc/gcTvKCtp/1.png)
+![Cinematic Video 2](https://i.postimg.cc/FRKLypjk/2.png)
+
+#### 3D Render Style
+**Images:**
+![3D Render Image 1](https://i.postimg.cc/8sgc0mrt/1.png)
+![3D Render Image 2](https://i.postimg.cc/63T0hnRJ/2.png)
+
+**Videos:**
+![3D Render Video 1](https://i.postimg.cc/FRfySm59/1.png)
+![3D Render Video 2](https://i.postimg.cc/t4XF5FGy/2.png)
+
+#### Oil Painting Style
+**Images:**
+![Oil Painting Image 1](https://i.postimg.cc/rw3FmLjL/1.png)
+![Oil Painting Image 2](https://i.postimg.cc/0Q531zwV/2.png)
+
+**Videos:**
+![Oil Painting Video 1](https://i.postimg.cc/wvbWK0HM/1.png)
+![Oil Painting Video 2](https://i.postimg.cc/jSbYkdMq/2.png)
+
+#### Sketch Style
+**Images:**
+![Sketch Image 1](https://i.postimg.cc/pXkJ3sZT/1.png)
+
+**Videos:**
+![Sketch Video 1](https://i.postimg.cc/R0tfCdcF/1.png)
+![Sketch Video 2](https://i.postimg.cc/Sx2YVd1P/2.png)
+
+</div>
+
+---
+
 ## 🚀 Features
 
 ### 🖼️ Core Capabilities (Both Platforms)
@@ -150,83 +250,6 @@ headers.put("Authorization", "Bearer YOUR_API_KEY");
 
 ---
 
-## 📸 Gallery
-
-### 🎨 Generated Artwork Examples
-
-<div align="center">
-
-#### Realistic Style
-![Realistic Image 1](https://i.postimg.cc/BnDfmGqC/1.jpg)
-![Realistic Image 2](https://i.postimg.cc/0QCwm36B/2.jpg)
-
-#### Anime Style
-![Anime Image 1](https://i.postimg.cc/ydWHX3W8/1.png)
-![Anime Image 2](https://i.postimg.cc/HLkxRxj4/2.png)
-
-#### Cinematic Style
-![Cinematic Image 1](https://i.postimg.cc/mrfjyvDB/1.png)
-![Cinematic Image 2](https://i.postimg.cc/fTVvnzSs/2.png)
-
-#### 3D Render Style
-![3D Render 1](https://i.postimg.cc/8sgc0mrt/1.png)
-![3D Render 2](https://i.postimg.cc/63T0hnRJ/2.png)
-
-#### Oil Painting Style
-![Oil Painting 1](https://i.postimg.cc/rw3FmLjL/1.png)
-![Oil Painting 2](https://i.postimg.cc/0Q531zwV/2.png)
-
-#### Sketch Style
-![Sketch 1](https://i.postimg.cc/pXkJ3sZT/1.png)
-
-</div>
-
-### 📱 App Interfaces
-
-<div align="center">
-
-#### Android App
-![Android UI 1](https://i.postimg.cc/3N9kqvYG/1.jpg)
-![Android UI 2](https://i.postimg.cc/05ZrP71G/2.jpg)
-
-#### Web App
-![Web UI 1](https://i.postimg.cc/d0HkndQR/1.png)
-![Web UI 2](https://i.postimg.cc/ncJz4TKT/2.png)
-
-#### Development Environment
-![Android Studio](https://i.postimg.cc/PxXhRFx6/1.png)
-![VS Code](https://i.postimg.cc/zfs5JX0j/1.png)
-
-</div>
-
----
-
-## 🎨 Example Prompts
-
-### Great Prompts for Best Results:
-```
-🏔️ "A majestic dragon soaring over medieval castle, fantasy art, highly detailed, dramatic lighting"
-
-🌃 "Cyberpunk cityscape at night, neon lights, rain-soaked streets, futuristic architecture"
-
-🧙 "Portrait of an elderly wizard with long white beard, magical glow, cinematic lighting"
-
-🌸 "Serene Japanese garden with cherry blossoms, traditional architecture, peaceful atmosphere"
-
-🎨 "Van Gogh style starry night over a modern city, impressionist brush strokes"
-
-🚀 "Astronaut riding a horse on Mars, surrealism, photorealistic, 4k"
-```
-
-### Tips for Better Results:
-- Be descriptive and specific
-- Include style references (e.g., "oil painting", "anime style")
-- Mention lighting and mood
-- Specify composition and perspective
-- Use the "Enhance prompt" feature
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -263,6 +286,32 @@ AI-Art-Generator/
     ├── screenshots/            # App previews
     └── technical/              # Technical details
 ```
+
+---
+
+## 🎨 Example Prompts
+
+### Great Prompts for Best Results:
+```
+🏔️ "A majestic dragon soaring over medieval castle, fantasy art, highly detailed, dramatic lighting"
+
+🌃 "Cyberpunk cityscape at night, neon lights, rain-soaked streets, futuristic architecture"
+
+🧙 "Portrait of an elderly wizard with long white beard, magical glow, cinematic lighting"
+
+🌸 "Serene Japanese garden with cherry blossoms, traditional architecture, peaceful atmosphere"
+
+🎨 "Van Gogh style starry night over a modern city, impressionist brush strokes"
+
+🚀 "Astronaut riding a horse on Mars, surrealism, photorealistic, 4k"
+```
+
+### Tips for Better Results:
+- Be descriptive and specific
+- Include style references (e.g., "oil painting", "anime style")
+- Mention lighting and mood
+- Specify composition and perspective
+- Use the "Enhance prompt" feature
 
 ---
 
@@ -307,6 +356,13 @@ We love contributions! Here's how you can help:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
+## 👨‍💻 Developer
+
+**Omkar J**  
+*Full Stack Developer & Android Enthusiast*
+
+- GitHub: [@omijr123](https://github.com/omijr123)
+- Project: AI Art Generator - Web & Android
 
 ## 🙏 Acknowledgments
 
