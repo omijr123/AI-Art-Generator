@@ -47,7 +47,7 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 
 
 
-![pic3](https://i.postimg.cc/PxXhRFx6/1.png)
+![pic3](https://postimg.cc/4KSrKPpt)
 
 
 
