@@ -85,11 +85,11 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 <h3>Web App UI Interface</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/d0HkndQR/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/GpHZbYW7/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncJz4TKT/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/mrz6v4MF/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 
@@ -114,11 +114,11 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 <h3>Generated Results</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/6pxdGdTT/9.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/xC9MKy0T/9.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/3W5DmT8G/10.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/YqvgfSwp/10.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 </div>
