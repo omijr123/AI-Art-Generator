@@ -349,4 +349,3 @@ AIArtGenerator/
 ---
 
 
-Just tell me!
