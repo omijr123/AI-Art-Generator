@@ -186,8 +186,8 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/wvbWK0HM/1.png" width="45%" style="max-height: 6000000px; object-fit: contain;">
-  <img src="https://i.postimg.cc/jSbYkdMq/2.png" width="45%" style="max-height: 900px; object-fit: contain;">
+  <img src="https://i.postimg.cc/wvbWK0HM/1.png" width="25%" style="max-height: 6000000px; object-fit: contain;">
+  <img src="https://i.postimg.cc/jSbYkdMq/2.png" width="2%" style="max-height: 900px; object-fit: contain;">
 </p>
 
 <h3>Category 6: Sketch</h3>
