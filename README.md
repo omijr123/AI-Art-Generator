@@ -163,8 +163,8 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/mrfjyvDB/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/fTVvnzSs/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/nzvyjx3h/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/C1H2MNK0/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <p align="center">
