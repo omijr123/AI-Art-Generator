@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/Language-Python-yellow">
 <img src="https://img.shields.io/badge/Model-Stable%20Diffusion-orange">
 
-<br><br> <strong>Transform your imagination into stunning AI-generated images & videos</strong>
+<br><br>
+<strong>Transform your imagination into stunning AI-generated images & videos</strong>
 
 </div>
 
@@ -17,27 +18,26 @@
 
 <h2>✨ Overview</h2>
 
-<p>
-<strong>AI Art Generator</strong> is a cross-platform AI-powered application built for:
-</p>
+<p><strong>AI Art Generator</strong> is a cross-platform AI application built for:</p>
 
 <ul>
 <li>🌐 <strong>Web</strong> (Flask + Python)</li>
 <li>📱 <strong>Android App</strong> (Java + Android Studio)</li>
 </ul>
 
-<p>Users can enter a text prompt, select a style, and generate:</p>
+<p>Users can enter a prompt and generate:</p>
 
 <ul>
-<li><strong>AI Images</strong> (High Quality)</li>
-<li><strong>AI Zoom Videos</strong> (Animated)</li>
+<li><strong>AI Images</strong></li>
+<li><strong>AI Zoom Videos</strong></li>
 </ul>
 
 <p>
-The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Inference API</strong> to generate outputs in multiple art styles.
+Powered by <strong>Stable Diffusion</strong> & <strong>Hugging Face API</strong>.
 </p>
 
 <hr>
+
 
 <h2>📱 Android App Preview</h2>
 
@@ -45,29 +45,23 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <h3>App UI Interface</h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/3N9kqvYG/1.jpg" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/05ZrP71G/2.jpg" width="45%" style="object-fit: contain; height: auto;">
+<p>
+  <img src="https://i.postimg.cc/3N9kqvYG/1.jpg" width="150px">
+  <img src="https://i.postimg.cc/05ZrP71G/2.jpg" width="150px">
 </p>
 
 <h3>Android Studio Workspace</h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/PxXhRFx6/1.png" width="75%" style="object-fit: contain; height: auto;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="75%" style="object-fit: contain; height: auto;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/bvC849td/5.png" width="75%" style="object-fit: contain; height: auto;">
+<p>
+  <img src="https://i.postimg.cc/PxXhRFx6/1.png" width="150px">
+  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="150px">
+  <img src="https://i.postimg.cc/bvC849td/5.png" width="150px">
 </p>
 
 <h3>Results Screen</h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/g05QvShZ/7.png" width="75%" style="object-fit: contain; height: auto;">
+<p>
+  <img src="https://i.postimg.cc/g05QvShZ/7.png" width="150px">
 </p>
 
 </div>
@@ -80,36 +74,24 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <h3>Web App UI Interface</h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/d0HkndQR/1.png" width="75%" style="object-fit: contain; height: auto;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/ncJz4TKT/2.png" width="75%" style="object-fit: contain; height: auto;">
+<p>
+  <img src="https://i.postimg.cc/d0HkndQR/1.png" width="150px">
+  <img src="https://i.postimg.cc/ncJz4TKT/2.png" width="150px">
 </p>
 
 <h3>VS Code Workspace</h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/zfs5JX0j/1.png" width="75%" style="object-fit: contain; height: auto;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/B65W458j/2.png" width="75%" style="object-fit: contain; height: auto;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/13Vjy025/7.png" width="75%" style="object-fit: contain; height: auto;">
+<p>
+  <img src="https://i.postimg.cc/zfs5JX0j/1.png" width="150px">
+  <img src="https://i.postimg.cc/B65W458j/2.png" width="150px">
+  <img src="https://i.postimg.cc/13Vjy025/7.png" width="150px">
 </p>
 
 <h3>Generated Results</h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/6pxdGdTT/9.png" width="75%" style="object-fit: contain; height: auto;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/3W5DmT8G/10.png" width="75%" style="object-fit: contain; height: auto;">
+<p>
+  <img src="https://i.postimg.cc/6pxdGdTT/9.png" width="150px">
+  <img src="https://i.postimg.cc/3W5DmT8G/10.png" width="150px">
 </p>
 
 </div>
@@ -122,85 +104,73 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <h3>Category 1: Realistic</h3>
 
-<p align="center">
-  <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/BnDfmGqC/1.jpg" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/0QCwm36B/2.jpg" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Images Output</strong><br><br>
+<img src="https://i.postimg.cc/BnDfmGqC/1.jpg" width="150px">
+<img src="https://i.postimg.cc/0QCwm36B/2.jpg" width="150px">
 </p>
 
-<p align="center">
-  <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/q7VhF02J/1.jpg" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/B6NjtKkQ/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Videos Output</strong><br><br>
+<img src="https://i.postimg.cc/q7VhF02J/1.jpg" width="150px">
+<img src="https://i.postimg.cc/B6NjtKkQ/2.png" width="150px">
 </p>
 
 <h3>Category 2: Anime</h3>
 
-<p align="center">
-  <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/ydWHX3W8/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/HLkxRxj4/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Images Output</strong><br><br>
+<img src="https://i.postimg.cc/ydWHX3W8/1.png" width="150px">
+<img src="https://i.postimg.cc/HLkxRxj4/2.png" width="150px">
 </p>
 
-<p align="center">
-  <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/2S8r8tmL/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/9FcjJk4j/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Videos Output</strong><br><br>
+<img src="https://i.postimg.cc/2S8r8tmL/1.png" width="150px">
+<img src="https://i.postimg.cc/9FcjJk4j/2.png" width="150px">
 </p>
 
 <h3>Category 3: Cinematic</h3>
 
-<p align="center">
-  <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/mrfjyvDB/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/fTVvnzSs/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Images Output</strong><br><br>
+<img src="https://i.postimg.cc/mrfjyvDB/1.png" width="150px">
+<img src="https://i.postimg.cc/fTVvnzSs/2.png" width="150px">
 </p>
 
-<p align="center">
-  <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/gcTvKCtp/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/FRKLypjk/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Videos Output</strong><br><br>
+<img src="https://i.postimg.cc/gcTvKCtp/1.png" width="150px">
+<img src="https://i.postimg.cc/FRKLypjk/2.png" width="150px">
 </p>
 
 <h3>Category 4: 3D Render</h3>
 
-<p align="center">
-  <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/8sgc0mrt/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/63T0hnRJ/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Images Output</strong><br><br>
+<img src="https://i.postimg.cc/8sgc0mrt/1.png" width="150px">
+<img src="https://i.postimg.cc/63T0hnRJ/2.png" width="150px">
 </p>
 
-<p align="center">
-  <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/FRfySm59/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/t4XF5FGy/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Videos Output</strong><br><br>
+<img src="https://i.postimg.cc/FRfySm59/1.png" width="150px">
+<img src="https://i.postimg.cc/t4XF5FGy/2.png" width="150px">
 </p>
 
 <h3>Category 5: Oil Painting</h3>
 
-<p align="center">
-  <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/rw3FmLjL/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/0Q531zwV/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Images Output</strong><br><br>
+<img src="https://i.postimg.cc/rw3FmLjL/1.png" width="150px">
+<img src="https://i.postimg.cc/0Q531zwV/2.png" width="150px">
 </p>
 
-<p align="center">
-  <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/wvbWK0HM/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/jSbYkdMq/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Videos Output</strong><br><br>
+<img src="https://i.postimg.cc/wvbWK0HM/1.png" width="150px">
+<img src="https://i.postimg.cc/jSbYkdMq/2.png" width="150px">
 </p>
 
 <h3>Category 6: Sketch</h3>
 
-<p align="center">
-  <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/pXkJ3sZT/1.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Images Output</strong><br><br>
+<img src="https://i.postimg.cc/pXkJ3sZT/1.png" width="150px">
 </p>
 
-<p align="center">
-  <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/R0tfCdcF/1.png" width="45%" style="object-fit: contain; height: auto;">
-  <img src="https://i.postimg.cc/Sx2YVd1P/2.png" width="45%" style="object-fit: contain; height: auto;">
+<p><strong>Videos Output</strong><br><br>
+<img src="https://i.postimg.cc/R0tfCdcF/1.png" width="150px">
+<img src="https://i.postimg.cc/Sx2YVd1P/2.png" width="150px">
 </p>
 
 </div>
@@ -209,148 +179,54 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <h2>🚀 Features</h2>
 
-<h3>⭐ Core Features (Both Web & Android)</h3>
+<h3>⭐ Core Features</h3>
 <ul>
-<li>Text-to-Image generation</li>
-<li>Text-to-Video (AI Zoom Animation)</li>
+<li>Text-to-Image</li>
+<li>Text-to-Video</li>
 <li>Multiple Art Styles</li>
-<li>Fast cloud inference with Hugging Face</li>
-<li>Save, Share & Re-generate options</li>
-<li>Clean UI + smooth experience</li>
+<li>Cloud AI Inference (Hugging Face)</li>
+<li>Save & Share</li>
 </ul>
 
-<h3>🌐 Web App Features</h3>
+<h3>🌐 Web</h3>
 <ul>
-<li>Flask backend for AI processing</li>
-<li>Async generation</li>
-<li>Auto-download results</li>
-<li>Real-time progress indicators</li>
+<li>Flask Backend</li>
+<li>Async Processing</li>
 </ul>
 
-<h3>📱 Android App Features</h3>
+<h3>📱 Android</h3>
 <ul>
-<li>Java + Android SDK</li>
+<li>Java + Retrofit</li>
 <li>Material UI</li>
-<li>Retrofit API integration</li>
-<li>Glide for image loading</li>
-<li>Local storage</li>
 </ul>
 
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>🧠 Backend (AI)</h3>
+<h3>Backend</h3>
 <ul>
 <li>Stable Diffusion</li>
-<li>Hugging Face API</li>
 <li>Diffusers</li>
 <li>OpenCV</li>
 </ul>
 
-<h3>🌐 Web</h3>
+<h3>Web</h3>
 <ul>
 <li>Python</li>
 <li>Flask</li>
-<li>HTML / CSS / JS</li>
 </ul>
 
-<h3>📱 Android</h3>
+<h3>Android</h3>
 <ul>
 <li>Java</li>
-<li>Android Studio</li>
-<li>Retrofit</li>
 <li>Glide</li>
-<li>MVVM</li>
+<li>Retrofit</li>
 </ul>
 
 <hr>
 
-<h2>📥 Installation & Setup</h2>
+<h2>📥 Installation</h2>
 
-<h3>🖥️ Web (Flask)</h3>
+<h3>Web</h3>
 
-```bash
-git clone <repo-url>
-cd web
-pip install -r requirements.txt
-python app.py
-```
-
-<h3>📱 Android App</h3>
-
-<ol>
-<li>Open Android Studio</li>
-<li>Open the <code>AndroidApp/</code> folder</li>
-<li>Build Gradle</li>
-<li>Add Hugging Face API key in <code>ApiClient.java</code></li>
-<li>Run the app</li>
-</ol>
-
-<hr>
-
-<h2>📁 Project Structure</h2>
-
-<pre>
-AIArtGenerator/
-│
-├── Web/
-│   ├── app.py
-│   ├── static/
-│   ├── templates/
-│   ├── models/
-│   └── utils/
-│
-├── Android/
-│   ├── app/
-│   ├── java/
-│   ├── res/
-│   └── manifest.xml
-│
-└── README.md
-</pre>
-
-<hr>
-
-<h2>🎨 Example Prompts</h2>
-
-<ul>
-<li>"realistic portrait of a warrior princess, 8k"</li>
-<li>"anime boy walking in neon tokyo"</li>
-<li>"cinematic shot, desert storm, dramatic lighting"</li>
-<li>"3d render of a glowing robot"</li>
-<li>"oil painting of an old king"</li>
-<li>"pencil sketch of a cat wearing glasses"</li>
-</ul>
-
-<hr>
-
-<h2>🤝 Contributing</h2>
-
-<p>Pull requests are welcome! Feel free to improve UI, add new styles, or optimize backend.</p>
-
-<hr>
-
-<h2>📄 License</h2>
-<p>MIT License</p>
-
-<hr>
-
-<div align="center">
-
-<h2>⭐ If you like this project, give it a star!</h2>
-
-<strong>"Creativity meets technology — bringing your imagination to life"</strong>
-
-</div>
-
----
-
-### ✅ Fixed Issues:
-- **Fixed all incorrect widths** (120%, 5000% etc.) to proper percentages (45% for side-by-side, 75% for single images)
-- **Added `style="object-fit: contain; height: auto;"`** to maintain aspect ratio and prevent distortion
-- **All images now properly centered** with consistent sizing
-- **No more overflow or broken layout** on GitHub
-- **Responsive design** that works on all screen sizes
-
-**This README will now display perfectly on GitHub with proper image dimensions!** 🎉
