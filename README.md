@@ -290,5 +290,5 @@ If you have any questions or need help with setup, please open an issue on GitHu
 
 ---
 
-*Last updated: December 2023*  
+*Last updated: December 2025*  
 *Built with ❤️ using Java, Android Studio, Python, and Flask*
