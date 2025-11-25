@@ -67,6 +67,7 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 
 ---
 
+
 # 🌐 Web App Preview
 
 <div align="center">
@@ -74,12 +75,16 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### -- Web App UI Interface --
 
 ![pic1](https://i.postimg.cc/d0HkndQR/1.png)
+
 ![pic2](https://i.postimg.cc/ncJz4TKT/2.png)
+
 
 ### -- VS Code Working Space --
 
 ![pic3](https://i.postimg.cc/zfs5JX0j/1.png)
+
 ![pic4](https://i.postimg.cc/B65W458j/2.png)
+
 ![pic5](https://i.postimg.cc/13Vjy025/7.png)
 
 ### -- VS Code (Generated Results) --
@@ -102,11 +107,13 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### 🖼️ Images Output
 
 * ![img](https://i.postimg.cc/BnDfmGqC/1.jpg)
+  
 * ![img](https://i.postimg.cc/0QCwm36B/2.jpg)
 
 ### 🎥 Videos Output
 
 * ![vid](https://i.postimg.cc/q7VhF02J/1.jpg)
+  
 * ![vid](https://i.postimg.cc/B6NjtKkQ/2.png)
 
 ---
@@ -116,11 +123,13 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### 🖼️ Images Output
 
 * ![img](https://i.postimg.cc/ydWHX3W8/1.png)
+  
 * ![img](https://i.postimg.cc/HLkxRxj4/2.png)
 
 ### 🎥 Videos Output
 
 * ![vid](https://i.postimg.cc/2S8r8tmL/1.png)
+  
 * ![vid](https://i.postimg.cc/9FcjJk4j/2.png)
 
 ---
@@ -130,11 +139,13 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### 🖼️ Images Output
 
 * ![img](https://i.postimg.cc/mrfjyvDB/1.png)
+  
 * ![img](https://i.postimg.cc/fTVvnzSs/2.png)
 
 ### 🎥 Videos Output
 
 * ![vid](https://i.postimg.cc/gcTvKCtp/1.png)
+  
 * ![vid](https://i.postimg.cc/FRKLypjk/2.png)
 
 ---
@@ -144,11 +155,13 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### 🖼️ Images Output
 
 * ![img](https://i.postimg.cc/8sgc0mrt/1.png)
+  
 * ![img](https://i.postimg.cc/63T0hnRJ/2.png)
 
 ### 🎥 Videos Output
 
 * ![vid](https://i.postimg.cc/FRfySm59/1.png)
+  
 * ![vid](https://i.postimg.cc/t4XF5FGy/2.png)
 
 ---
@@ -158,11 +171,13 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### 🖼️ Images Output
 
 * ![img](https://i.postimg.cc/rw3FmLjL/1.png)
+  
 * ![img](https://i.postimg.cc/0Q531zwV/2.png)
 
 ### 🎥 Videos Output
 
 * ![vid](https://i.postimg.cc/wvbWK0HM/1.png)
+  
 * ![vid](https://i.postimg.cc/jSbYkdMq/2.png)
 
 ---
@@ -176,6 +191,7 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### 🎥 Videos Output
 
 * ![vid](https://i.postimg.cc/R0tfCdcF/1.png)
+  
 * ![vid](https://i.postimg.cc/Sx2YVd1P/2.png)
 
 ---
