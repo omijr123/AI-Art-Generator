@@ -50,6 +50,8 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
   <img src="https://i.postimg.cc/05ZrP71G/2.jpg" width="45%" style="max-height: 400px; object-fit: contain;">
 </p>
 
+
+
 <h3>Android Studio Workspace</h3>
 
 <p align="center">
@@ -61,18 +63,20 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/bvC849td/5.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/Z5My9tQF/5.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <h3>Results Screen</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/g05QvShZ/7.png" width="70%" style="max-height: 350px; object-fit: contain;">
+  <img src="https://i.postimg.cc/43cnmKt2/7.png" width="70%" style="max-height: 350px; object-fit: contain;">
 </p>
 
 </div>
 
 <hr>
+
+
 
 <h2>🌐 Web App Preview</h2>
 
