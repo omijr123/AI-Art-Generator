@@ -1,29 +1,16 @@
-Here it is — your **cleaned, professionally formatted README**, keeping **EVERYTHING exactly the same** as you asked:
 
-✔ All your section titles kept EXACT (`-- Title --`, `_ Images:`, `_ Videos:`)
-✔ All images preserved, same order, same grouping
-✔ No links removed
-✔ Only formatting, spacing, alignment improved
-✔ Fully polished and GitHub-ready
-
-You can copy & paste directly into your repo.
-
----
-
-# 🎨 AI Art Generator - Web & Android
+# 🎨 AI Art Generator – Web & Android (Java + Python)
 
 <div align="center">
 
 ![AI Art Generator](https://img.shields.io/badge/AI-Art%20Generator-blueviolet)
-![Flask](https://img.shields.io/badge/Web-Flask-green)
 ![Android](https://img.shields.io/badge/Mobile-Android%20Studio-brightgreen)
-![Stable Diffusion](https://img.shields.io/badge/AI-Stable%20Diffusion-orange)
+![Flask](https://img.shields.io/badge/Web-Flask-green)
 ![Java](https://img.shields.io/badge/Language-Java-red)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
+![Stable Diffusion](https://img.shields.io/badge/Model-Stable%20Diffusion-orange)
 
-**Transform your imagination into stunning visual art with AI-powered image and video generation**
-
-[Features](#-features) • [Web Version](#-web-version) • [Android App](#-android-app) • [Installation](#-installation) • [Usage](#-usage)
+**Transform your imagination into stunning AI-generated images & videos**
 
 </div>
 
@@ -31,38 +18,36 @@ You can copy & paste directly into your repo.
 
 ## ✨ Overview
 
-**AI Art Generator** is a powerful cross-platform application that leverages **Stable Diffusion AI** to create breathtaking images and videos from text descriptions. Available as both a **web application** (Flask) and a **native Android app** (Java), this project brings cutting-edge AI art generation to multiple platforms.
+**AI Art Generator** is a cross-platform AI-powered application built for:
 
-> **"Transforming imagination into reality, one prompt at a time"** ✨
+* 🌐 **Web** (Flask + Python)
+* 📱 **Android App** (Java + Android Studio)
+
+Users can enter a text prompt, select a style, and generate:
+
+* **AI Images** (High Quality)
+* **AI Zoom Videos** (Animated)
+
+The backend uses **Stable Diffusion** & **Hugging Face Inference API** to generate outputs in multiple art styles.
 
 ---
 
-## 📸 Screenshots
-
----
-
-## 📱 Android App Preview
+# 📱 Android App Preview
 
 <div align="center">
 
----
-
-**-- App UI Interface --**
+### -- App UI Interface --
 
 ![pic1](https://i.postimg.cc/3N9kqvYG/1.jpg)
 ![pic2](https://i.postimg.cc/05ZrP71G/2.jpg)
 
----
-
-**-- Android Studio Working Space --**
+### -- Android Studio Working Space --
 
 ![pic3](https://i.postimg.cc/PxXhRFx6/1.png)
 ![pic4](https://i.postimg.cc/1zyLmVZT/2.png)
 ![pic5](https://i.postimg.cc/bvC849td/5.png)
 
----
-
-**-- Android Studio ( Results Screen ) --**
+### -- Android Studio (Results Screen) --
 
 ![pic6](https://i.postimg.cc/g05QvShZ/7.png)
 
@@ -70,28 +55,22 @@ You can copy & paste directly into your repo.
 
 ---
 
-## 🌐 Web App Preview
+# 🌐 Web App Preview
 
 <div align="center">
 
----
-
-**-- Web App UI Interface --**
+### -- Web App UI Interface --
 
 ![pic1](https://i.postimg.cc/d0HkndQR/1.png)
 ![pic2](https://i.postimg.cc/ncJz4TKT/2.png)
 
----
-
-**-- VS Code Working Space --**
+### -- VS Code Working Space --
 
 ![pic3](https://i.postimg.cc/zfs5JX0j/1.png)
 ![pic4](https://i.postimg.cc/B65W458j/2.png)
 ![pic5](https://i.postimg.cc/13Vjy025/7.png)
 
----
-
-**-- VS Code ( Generated Results ) --**
+### -- VS Code (Generated Results) --
 
 ![pic6](https://i.postimg.cc/6pxdGdTT/9.png)
 ![pic7](https://i.postimg.cc/3W5DmT8G/10.png)
@@ -100,247 +79,258 @@ You can copy & paste directly into your repo.
 
 ---
 
-## 🖼️ Output Results Preview
-
-<div align="center">
+# 📱 Output Results Preview (Option B Format)
 
 ---
 
-### **-- Realistic --**
+## 📂 **Category 1: Realistic**
 
-_ Images:
+### 🖼️ Images Output
 
-![pic1](https://i.postimg.cc/BnDfmGqC/1.jpg)
-![pic2](https://i.postimg.cc/0QCwm36B/2.jpg)
+* ![img](https://i.postimg.cc/BnDfmGqC/1.jpg)
+* ![img](https://i.postimg.cc/0QCwm36B/2.jpg)
 
-_ Videos:
+### 🎥 Videos Output
 
-![pic1](https://i.postimg.cc/q7VhF02J/1.jpg)
-![pic2](https://i.postimg.cc/B6NjtKkQ/2.png)
-
----
-
-### **-- Anime --**
-
-_ Images:
-
-![pic1](https://i.postimg.cc/ydWHX3W8/1.png)
-![pic2](https://i.postimg.cc/HLkxRxj4/2.png)
-
-_ Videos:
-
-![pic1](https://i.postimg.cc/2S8r8tmL/1.png)
-![pic2](https://i.postimg.cc/9FcjJk4j/2.png)
+* ![vid](https://i.postimg.cc/q7VhF02J/1.jpg)
+* ![vid](https://i.postimg.cc/B6NjtKkQ/2.png)
 
 ---
 
-### **-- Cinematic --**
+## 📂 **Category 2: Anime**
 
-_ Images:
+### 🖼️ Images Output
 
-![pic1](https://i.postimg.cc/mrfjyvDB/1.png)
-![pic2](https://i.postimg.cc/fTVvnzSs/2.png)
+* ![img](https://i.postimg.cc/ydWHX3W8/1.png)
+* ![img](https://i.postimg.cc/HLkxRxj4/2.png)
 
-_ Videos:
+### 🎥 Videos Output
 
-![pic1](https://i.postimg.cc/gcTvKCtp/1.png)
-![pic2](https://i.postimg.cc/FRKLypjk/2.png)
-
----
-
-### **-- 3D Render --**
-
-_ Images:
-
-![pic1](https://i.postimg.cc/8sgc0mrt/1.png)
-![pic2](https://i.postimg.cc/63T0hnRJ/2.png)
-
-_ Videos:
-
-![pic1](https://i.postimg.cc/FRfySm59/1.png)
-![pic2](https://i.postimg.cc/t4XF5FGy/2.png)
+* ![vid](https://i.postimg.cc/2S8r8tmL/1.png)
+* ![vid](https://i.postimg.cc/9FcjJk4j/2.png)
 
 ---
 
-### **-- Oil Painting --**
+## 📂 **Category 3: Cinematic**
 
-_ Images:
+### 🖼️ Images Output
 
-![pic1](https://i.postimg.cc/rw3FmLjL/1.png)
-![pic2](https://i.postimg.cc/0Q531zwV/2.png)
+* ![img](https://i.postimg.cc/mrfjyvDB/1.png)
+* ![img](https://i.postimg.cc/fTVvnzSs/2.png)
 
-_ Videos:
+### 🎥 Videos Output
 
-![pic1](https://i.postimg.cc/wvbWK0HM/1.png)
-![pic2](https://i.postimg.cc/jSbYkdMq/2.png)
-
----
-
-### **-- Sketch --**
-
-_ Images:
-
-![pic1](https://i.postimg.cc/pXkJ3sZT/1.png)
-
-_ Videos:
-
-![pic1](https://i.postimg.cc/R0tfCdcF/1.png)
-![pic2](https://i.postimg.cc/Sx2YVd1P/2.png)
-
-</div>
+* ![vid](https://i.postimg.cc/gcTvKCtp/1.png)
+* ![vid](https://i.postimg.cc/FRKLypjk/2.png)
 
 ---
 
-## 🚀 Features
+## 📂 **Category 4: 3D Render**
 
-### 🖼️ Core Capabilities
+### 🖼️ Images Output
+
+* ![img](https://i.postimg.cc/8sgc0mrt/1.png)
+* ![img](https://i.postimg.cc/63T0hnRJ/2.png)
+
+### 🎥 Videos Output
+
+* ![vid](https://i.postimg.cc/FRfySm59/1.png)
+* ![vid](https://i.postimg.cc/t4XF5FGy/2.png)
+
+---
+
+## 📂 **Category 5: Oil Painting**
+
+### 🖼️ Images Output
+
+* ![img](https://i.postimg.cc/rw3FmLjL/1.png)
+* ![img](https://i.postimg.cc/0Q531zwV/2.png)
+
+### 🎥 Videos Output
+
+* ![vid](https://i.postimg.cc/wvbWK0HM/1.png)
+* ![vid](https://i.postimg.cc/jSbYkdMq/2.png)
+
+---
+
+## 📂 **Category 6: Sketch**
+
+### 🖼️ Images Output
+
+* ![img](https://i.postimg.cc/pXkJ3sZT/1.png)
+
+### 🎥 Videos Output
+
+* ![vid](https://i.postimg.cc/R0tfCdcF/1.png)
+* ![vid](https://i.postimg.cc/Sx2YVd1P/2.png)
+
+---
+
+# 🚀 Features
+
+### ⭐ Core Features (Both Web & Android)
 
 * Text-to-Image generation
-* Text-to-Video generation
-* Multiple art styles (Realistic, Anime, Cinematic, 3D, Oil Painting, Sketch)
-* Prompt enhancement
-* Real-time generation
-* Save & Share
+* Text-to-Video (AI Zoom Animation)
+* Multiple Art Styles
+* Fast cloud inference with Hugging Face
+* Save, Share & Re-generate options
+* Clean UI + smooth experience
 
-### 🌐 Web Version (Flask)
+### 🌐 Web App Features
 
-* Responsive design
-* Dark/Light mode
-* Instant download
-* RESTful API
-* Real-time progress tracking
+* Flask backend for AI processing
+* Async generation (non-blocking)
+* Auto-download of results
+* Real-time progress indicators
 
-### 📱 Android App (Java)
+### 📱 Android App Features
 
-* Native performance
-* Material Design UI
-* Gallery integration
-* Offline capabilities
-* Push notifications
-* Hugging Face API integration
+* Built using **Java + Android SDK**
+* Material UI
+* Retrofit API integration
+* Glide for fast image loading
+* Local storage for downloads
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Tech Stack
 
-### Web
+### 🧠 Backend (AI)
 
-| Component        | Tech                  |
-| ---------------- | --------------------- |
-| Backend          | Flask, Python         |
-| AI Model         | Stable Diffusion      |
-| Frontend         | HTML, CSS, JavaScript |
-| Video Processing | OpenCV, FFmpeg        |
+* Stable Diffusion
+* Hugging Face Inference API
+* Diffusers
+* OpenCV (video animation)
 
-### Android
+### 🌐 Web
 
-| Component    | Tech             |
-| ------------ | ---------------- |
-| Language     | Java             |
-| API          | Retrofit, OkHttp |
-| Architecture | MVVM             |
-| AI           | Hugging Face API |
+* Python
+* Flask
+* HTML/CSS/JavaScript
+
+### 📱 Android
+
+* Java
+* Android Studio
+* Retrofit
+* Glide
+* MVVM architecture
 
 ---
 
-## 📥 Installation & Setup
+# 📥 Installation & Setup
 
-### 🌐 Web Version
+## 🖥️ Web (Flask)
 
 ```bash
-git clone https://github.com/omijr123/AI-Art-Generator.git
-cd AI-Art-Generator/web-version
-python -m venv venv
-source venv/bin/activate
+git clone <repo-url>
+cd web
 pip install -r requirements.txt
 python app.py
 ```
 
-### 📱 Android Version
+Access at:
 
-```bash
-git clone https://github.com/omijr123/AI-Art-Generator.git
-cd AI-Art-Generator/android-app
 ```
-
-Open in **Android Studio** → Build → Run.
-
-### 🔐 API Key
-
-```java
-headers.put("Authorization", "Bearer YOUR_API_KEY");
+http://127.0.0.1:5000/
 ```
 
 ---
 
-## 🎯 Usage
+## 📱 Android App
 
-### Web:
-
-1. Enter prompt
-2. Select style
-3. Choose duration
-4. Generate
-5. Download
-
-### Android:
-
-1. Open app
-2. Type prompt
-3. Adjust style
-4. Generate
-5. Save/Share
-
----
-
-## 🎨 Example Prompts
+1. Open **Android Studio**
+2. Select **Open Project**
+3. Choose the `AndroidApp/` folder
+4. Build Gradle
+5. Add your Hugging Face API key in:
 
 ```
-"A majestic dragon flying over a medieval castle, dramatic lighting"
-"Cyberpunk street at night, neon glow, rain reflections"
-"Portrait of an ancient wizard, cinematic lighting"
-"Japanese garden with cherry blossoms, ultra detailed"
-"Astronaut riding a horse on Mars, surreal, 4K"
+ApiClient.java
+```
+
+6. Run on Emulator or Physical Device
+
+---
+
+# 🎯 Usage
+
+1. Enter your **text prompt**
+2. Select **Art Style**
+3. Choose:
+
+   * **Generate Image**
+   * **Generate Video**
+4. Wait for AI to process
+5. Download or share the result
+
+---
+
+# 📁 Project Structure
+
+```
+AIArtGenerator/
+│
+├── Web/
+│   ├── app.py
+│   ├── static/
+│   ├── templates/
+│   ├── models/
+│   └── utils/
+│
+├── Android/
+│   ├── app/
+│   ├── java/
+│   ├── res/
+│   └── manifest.xml
+│
+└── README.md
 ```
 
 ---
 
-## 🤝 Contributing
+# 🎨 Example Prompts
 
-PRs and contributions welcome!
-Help needed for:
-
-* More styles
-* AR mode
-* Optimized video generation
-* Multi-language support
+* “realistic portrait of a warrior princess, 8k”
+* “anime boy walking in neon tokyo”
+* “cinematic shot, desert storm, dramatic lighting”
+* “3d render of a glowing robot”
+* “oil painting of an old king”
+* "pencil sketch of a cat wearing glasses"
 
 ---
 
-## 📄 License
+# ⚡ How It Works
 
-MIT License.
+1. User sends prompt → App
+2. App sends request → Flask / HuggingFace
+3. Stable Diffusion generates image/video
+4. Flask returns result
+5. Android/Web displays output
+
+---
+
+# 🤝 Contributing
+
+Pull requests are welcome!
+Feel free to improve UI, add new styles, or optimize backend.
+
+---
+
+# 📄 License
+
+MIT License
 
 ---
 
 <div align="center">
 
-## 📞 Support
+## ⭐ If you like this project, give it a star!
 
-Open an issue for help.
-⭐ **Star this repo if you like it!**
-
-**"Creativity meets technology — your imagination, reimagined."**
+**"Creativity meets technology — bringing your imagination to life"**
 
 </div>
 
 ---
 
-If you want, I can also create:
-
-✨ GitHub Banner
-✨ Project Logo
-✨ Badges
-✨ Release Notes
-
-Just tell me!
