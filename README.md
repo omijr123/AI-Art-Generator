@@ -53,7 +53,7 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 <h3>Android Studio Workspace</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/PxXhRFx6/1.png" width="120%">
+  <img src="https://i.postimg.cc/PxXhRFx6/1.png" width="1200%">
 </p>
 
 <p align="center">
