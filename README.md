@@ -11,7 +11,7 @@
 
 **Transform your imagination into stunning visual art with AI-powered image and video generation**
 
-[Features](#-features) • [Web Version](#-web-version) • [Android App](#-android-app) • [Installation](#-installation) • [Usage](#-usage)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Gallery](#-gallery) • [Contributing](#-contributing)
 
 </div>
 
@@ -22,27 +22,6 @@
 > **"Transforming imagination into reality, one prompt at a time"** ✨
 
 ---
-
-
-
-## 📸 Screenshots
-
-
-## 📱 Android App Preview
-
-<div align="center">
-
-
-
--- App UI Interface --
-
-![pic1](https://i.postimg.cc/3N9kqvYG/1.jpg)
-
-
-![pic2](https://i.postimg.cc/05ZrP71G/2.jpg)
-
-
-
 
 ## 🚀 Features
 
@@ -171,6 +150,83 @@ headers.put("Authorization", "Bearer YOUR_API_KEY");
 
 ---
 
+## 📸 Gallery
+
+### 🎨 Generated Artwork Examples
+
+<div align="center">
+
+#### Realistic Style
+![Realistic Image 1](https://i.postimg.cc/BnDfmGqC/1.jpg)
+![Realistic Image 2](https://i.postimg.cc/0QCwm36B/2.jpg)
+
+#### Anime Style
+![Anime Image 1](https://i.postimg.cc/ydWHX3W8/1.png)
+![Anime Image 2](https://i.postimg.cc/HLkxRxj4/2.png)
+
+#### Cinematic Style
+![Cinematic Image 1](https://i.postimg.cc/mrfjyvDB/1.png)
+![Cinematic Image 2](https://i.postimg.cc/fTVvnzSs/2.png)
+
+#### 3D Render Style
+![3D Render 1](https://i.postimg.cc/8sgc0mrt/1.png)
+![3D Render 2](https://i.postimg.cc/63T0hnRJ/2.png)
+
+#### Oil Painting Style
+![Oil Painting 1](https://i.postimg.cc/rw3FmLjL/1.png)
+![Oil Painting 2](https://i.postimg.cc/0Q531zwV/2.png)
+
+#### Sketch Style
+![Sketch 1](https://i.postimg.cc/pXkJ3sZT/1.png)
+
+</div>
+
+### 📱 App Interfaces
+
+<div align="center">
+
+#### Android App
+![Android UI 1](https://i.postimg.cc/3N9kqvYG/1.jpg)
+![Android UI 2](https://i.postimg.cc/05ZrP71G/2.jpg)
+
+#### Web App
+![Web UI 1](https://i.postimg.cc/d0HkndQR/1.png)
+![Web UI 2](https://i.postimg.cc/ncJz4TKT/2.png)
+
+#### Development Environment
+![Android Studio](https://i.postimg.cc/PxXhRFx6/1.png)
+![VS Code](https://i.postimg.cc/zfs5JX0j/1.png)
+
+</div>
+
+---
+
+## 🎨 Example Prompts
+
+### Great Prompts for Best Results:
+```
+🏔️ "A majestic dragon soaring over medieval castle, fantasy art, highly detailed, dramatic lighting"
+
+🌃 "Cyberpunk cityscape at night, neon lights, rain-soaked streets, futuristic architecture"
+
+🧙 "Portrait of an elderly wizard with long white beard, magical glow, cinematic lighting"
+
+🌸 "Serene Japanese garden with cherry blossoms, traditional architecture, peaceful atmosphere"
+
+🎨 "Van Gogh style starry night over a modern city, impressionist brush strokes"
+
+🚀 "Astronaut riding a horse on Mars, surrealism, photorealistic, 4k"
+```
+
+### Tips for Better Results:
+- Be descriptive and specific
+- Include style references (e.g., "oil painting", "anime style")
+- Mention lighting and mood
+- Specify composition and perspective
+- Use the "Enhance prompt" feature
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -205,34 +261,8 @@ AI-Art-Generator/
 │
 └── docs/                       # Documentation
     ├── screenshots/            # App previews
-    └── technical/              # Technical specifications
+    └── technical/              # Technical details
 ```
-
----
-
-## 🎨 Example Prompts
-
-### Great Prompts for Best Results:
-```
-🏔️ "A majestic dragon soaring over medieval castle, fantasy art, highly detailed, dramatic lighting"
-
-🌃 "Cyberpunk cityscape at night, neon lights, rain-soaked streets, futuristic architecture"
-
-🧙 "Portrait of an elderly wizard with long white beard, magical glow, cinematic lighting"
-
-🌸 "Serene Japanese garden with cherry blossoms, traditional architecture, peaceful atmosphere"
-
-🎨 "Van Gogh style starry night over a modern city, impressionist brush strokes"
-
-🚀 "Astronaut riding a horse on Mars, surrealism, photorealistic, 4k"
-```
-
-### Tips for Better Results:
-- Be descriptive and specific
-- Include style references (e.g., "oil painting", "anime style")
-- Mention lighting and mood
-- Specify composition and perspective
-- Use the "Enhance prompt" feature
 
 ---
 
@@ -303,5 +333,5 @@ If you have any questions or need help with setup, please open an issue on GitHu
 
 ---
 
-*Last updated: November 2025*  
+*Last updated: November 2024*  
 *Built with ❤️ using Java, Android Studio, Python, and Flask*
