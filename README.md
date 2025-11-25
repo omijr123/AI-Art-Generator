@@ -98,7 +98,7 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 
 ---
 
-# 📱 Output Results Preview (Option B Format)
+# 📱 Output Results Preview
 
 ---
 
