@@ -1,21 +1,3 @@
-Below is your **fully-updated README.md**, with **all image tags corrected** to follow your required GitHub Social Preview sizing rules:
-
-### ✅ Applied Image Rules
-
-| Property             | Value                    |
-| -------------------- | ------------------------ |
-| **width**            | `640px`                  |
-| **max-height**       | `320px`                  |
-| **style**            | `object-fit: contain;`   |
-| **height attribute** | *removed*                |
-| **aspect ratio**     | exact **2:1** maintained |
-
----
-
-# ✅ **Your Fully Updated README.md (All Images Fixed to 640×320 Rules)**
-
----
-
 # 🎨 AI Art Generator – Web & Android (Java + Python)
 
 <div align="center">
@@ -31,268 +13,262 @@ Below is your **fully-updated README.md**, with **all image tags corrected** to 
 
 </div>
 
----
+<hr>
 
-## ✨ Overview
+<h2>✨ Overview</h2>
 
-**AI Art Generator** is a cross-platform AI-powered application built for:
+<p>
+<strong>AI Art Generator</strong> is a cross-platform AI-powered application built for:
+</p>
 
-* 🌐 **Web** (Flask + Python)
-* 📱 **Android App** (Java + Android Studio)
+<ul>
+<li>🌐 <strong>Web</strong> (Flask + Python)</li>
+<li>📱 <strong>Android App</strong> (Java + Android Studio)</li>
+</ul>
 
-Users can enter a text prompt, select a style, and generate:
+<p>Users can enter a text prompt, select a style, and generate:</p>
 
-* **AI Images**
-* **AI Zoom Videos**
+<ul>
+<li><strong>AI Images</strong> (High Quality)</li>
+<li><strong>AI Zoom Videos</strong> (Animated)</li>
+</ul>
 
-Backend uses **Stable Diffusion** & **Hugging Face Inference API**.
+<p>
+The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Inference API</strong> to generate outputs in multiple art styles.
+</p>
 
----
+<hr>
 
-## 📱 Android App Preview
+<h2>📱 Android App Preview</h2>
 
 <div align="center">
 
-### App UI Interface
+<h3>App UI Interface</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/3N9kqvYG/1.jpg" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/05ZrP71G/2.jpg" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/3N9kqvYG/1.jpg" width="45%" style="max-height: 400px; object-fit: contain;">
+  <img src="https://i.postimg.cc/05ZrP71G/2.jpg" width="45%" style="max-height: 400px; object-fit: contain;">
 </p>
 
-### Android Studio Workspace
+<h3>Android Studio Workspace</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/PxXhRFx6/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/PxXhRFx6/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/bvC849td/5.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
-### Results Screen
+<p align="center">
+  <img src="https://i.postimg.cc/bvC849td/5.png" width="85%" style="max-height: 425px; object-fit: contain;">
+</p>
+
+<h3>Results Screen</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/g05QvShZ/7.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/g05QvShZ/7.png" width="70%" style="max-height: 350px; object-fit: contain;">
 </p>
 
 </div>
 
----
+<hr>
 
-## 🌐 Web App Preview
+<h2>🌐 Web App Preview</h2>
 
 <div align="center">
 
-### Web App UI Interface
+<h3>Web App UI Interface</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/d0HkndQR/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/d0HkndQR/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncJz4TKT/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/ncJz4TKT/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
-### VS Code Workspace
+<h3>VS Code Workspace</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/zfs5JX0j/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/B65W458j/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/zfs5JX0j/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/13Vjy025/7.png" width="640px" style="max-height: 320px; object-fit: contain;">
-</p>
-
-### Generated Results
-
-<p align="center">
-  <img src="https://i.postimg.cc/6pxdGdTT/9.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/B65W458j/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/3W5DmT8G/10.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <img src="https://i.postimg.cc/13Vjy025/7.png" width="85%" style="max-height: 425px; object-fit: contain;">
+</p>
+
+<h3>Generated Results</h3>
+
+<p align="center">
+  <img src="https://i.postimg.cc/6pxdGdTT/9.png" width="85%" style="max-height: 425px; object-fit: contain;">
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/3W5DmT8G/10.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 </div>
 
----
+<hr>
 
-## 📂 Output Examples
+<h2>📂 Output Examples</h2>
 
 <div align="center">
 
-### Category 1: Realistic
-
-**Images Output**
+<h3>Category 1: Realistic</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/BnDfmGqC/1.jpg" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/0QCwm36B/2.jpg" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Images Output</strong><br><br>
+  <img src="https://i.postimg.cc/BnDfmGqC/1.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/0QCwm36B/2.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
-**Videos Output**
-
 <p align="center">
-  <img src="https://i.postimg.cc/q7VhF02J/1.jpg" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/B6NjtKkQ/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Videos Output</strong><br><br>
+  <img src="https://i.postimg.cc/q7VhF02J/1.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/B6NjtKkQ/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
----
-
-### Category 2: Anime
-
-**Images Output**
+<h3>Category 2: Anime</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/ydWHX3W8/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/HLkxRxj4/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Images Output</strong><br><br>
+  <img src="https://i.postimg.cc/ydWHX3W8/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/HLkxRxj4/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
-**Videos Output**
-
 <p align="center">
-  <img src="https://i.postimg.cc/2S8r8tmL/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/9FcjJk4j/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Videos Output</strong><br><br>
+  <img src="https://i.postimg.cc/2S8r8tmL/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/9FcjJk4j/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
----
-
-### Category 3: Cinematic
-
-**Images Output**
+<h3>Category 3: Cinematic</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/mrfjyvDB/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/fTVvnzSs/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Images Output</strong><br><br>
+  <img src="https://i.postimg.cc/mrfjyvDB/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/fTVvnzSs/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
-**Videos Output**
-
 <p align="center">
-  <img src="https://i.postimg.cc/gcTvKCtp/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/FRKLypjk/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Videos Output</strong><br><br>
+  <img src="https://i.postimg.cc/gcTvKCtp/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/FRKLypjk/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
----
-
-### Category 4: 3D Render
-
-**Images Output**
+<h3>Category 4: 3D Render</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/8sgc0mrt/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/63T0hnRJ/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Images Output</strong><br><br>
+  <img src="https://i.postimg.cc/8sgc0mrt/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/63T0hnRJ/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
-**Videos Output**
-
 <p align="center">
-  <img src="https://i.postimg.cc/FRfySm59/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/t4XF5FGy/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Videos Output</strong><br><br>
+  <img src="https://i.postimg.cc/FRfySm59/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/t4XF5FGy/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
----
-
-### Category 5: Oil Painting
-
-**Images Output**
+<h3>Category 5: Oil Painting</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/rw3FmLjL/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/0Q531zwV/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Images Output</strong><br><br>
+  <img src="https://i.postimg.cc/rw3FmLjL/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/0Q531zwV/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
-**Videos Output**
-
 <p align="center">
-  <img src="https://i.postimg.cc/wvbWK0HM/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/jSbYkdMq/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Videos Output</strong><br><br>
+  <img src="https://i.postimg.cc/wvbWK0HM/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/jSbYkdMq/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
----
-
-### Category 6: Sketch
-
-**Images Output**
+<h3>Category 6: Sketch</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/CxHrsdwD/resize-17640896101777062339Screenshot20251125223603.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Images Output</strong><br><br>
+  <img src="https://i.postimg.cc/CxHrsdwD/resize-17640896101777062339Screenshot20251125223603.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
-**Videos Output**
-
 <p align="center">
-  <img src="https://i.postimg.cc/R0tfCdcF/1.png" width="640px" style="max-height: 320px; object-fit: contain;">
-  <img src="https://i.postimg.cc/Sx2YVd1P/2.png" width="640px" style="max-height: 320px; object-fit: contain;">
+  <strong>Videos Output</strong><br><br>
+  <img src="https://i.postimg.cc/R0tfCdcF/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/Sx2YVd1P/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 </div>
 
----
+<hr>
 
-## 🚀 Features
+<h2>🚀 Features</h2>
 
-### ⭐ Core Features
+<h3>⭐ Core Features (Both Web & Android)</h3>
+<ul>
+<li>Text-to-Image generation</li>
+<li>Text-to-Video (AI Zoom Animation)</li>
+<li>Multiple Art Styles</li>
+<li>Fast cloud inference with Hugging Face</li>
+<li>Save, Share & Re-generate options</li>
+<li>Clean UI + smooth experience</li>
+</ul>
 
-* Text-to-Image
-* Text-to-Video
-* Multiple Art Styles
-* Hugging Face API
-* Save & Share
-* Smooth UI
+<h3>🌐 Web App Features</h3>
+<ul>
+<li>Flask backend for AI processing</li>
+<li>Async generation</li>
+<li>Auto-download results</li>
+<li>Real-time progress indicators</li>
+</ul>
 
-### 🌐 Web Features
+<h3>📱 Android App Features</h3>
+<ul>
+<li>Java + Android SDK</li>
+<li>Material UI</li>
+<li>Retrofit API integration</li>
+<li>Glide for image loading</li>
+<li>Local storage</li>
+</ul>
 
-* Flask backend
-* Async model execution
-* Auto download results
-* Progress UI
+<hr>
 
-### 📱 Android Features
+<h2>🛠️ Tech Stack</h2>
 
-* Java + Retrofit
-* Glide for images
-* MVVM
-* Local file storage
+<h3>🧠 Backend (AI)</h3>
+<ul>
+<li>Stable Diffusion</li>
+<li>Hugging Face API</li>
+<li>Diffusers</li>
+<li>OpenCV</li>
+</ul>
 
----
+<h3>🌐 Web</h3>
+<ul>
+<li>Python</li>
+<li>Flask</li>
+<li>HTML / CSS / JS</li>
+</ul>
 
-## 🛠 Tech Stack
+<h3>📱 Android</h3>
+<ul>
+<li>Java</li>
+<li>Android Studio</li>
+<li>Retrofit</li>
+<li>Glide</li>
+<li>MVVM</li>
+</ul>
 
-### 🧠 Backend
+<hr>
 
-* Stable Diffusion
-* Hugging Face
-* Diffusers
-* OpenCV
+<h2>📥 Installation & Setup</h2>
 
-### 🌐 Web
-
-* Python
-* Flask
-* HTML/CSS/JS
-
-### 📱 Android
-
-* Java
-* Android Studio
-* Retrofit
-* Glide
-
----
-
-## 📥 Installation
-
-### Web (Flask)
+<h3>🖥️ Web (Flask)</h3>
 
 ```bash
 git clone <repo-url>
@@ -301,18 +277,21 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Android
+<h3>📱 Android App</h3>
 
-1. Open Android Studio
-2. Import the project
-3. Add API Key inside `ApiClient.java`
-4. Run
+<ol>
+<li>Open Android Studio</li>
+<li>Open the <code>AndroidApp/</code> folder</li>
+<li>Build Gradle</li>
+<li>Add Hugging Face API key in <code>ApiClient.java</code></li>
+<li>Run the app</li>
+</ol>
 
----
+<hr>
 
-## 📁 Project Structure
+<h2>📁 Project Structure</h2>
 
-```
+<pre>
 AIArtGenerator/
 │
 ├── Web/
@@ -329,48 +308,41 @@ AIArtGenerator/
 │   └── manifest.xml
 │
 └── README.md
-```
+</pre>
 
----
+<hr>
 
-## 🎨 Example Prompts
+<h2>🎨 Example Prompts</h2>
 
-* "realistic portrait of a warrior princess, 8k"
-* "anime boy walking in neon tokyo"
-* "cinematic shot, desert storm, dramatic lighting"
-* "3d render of a glowing robot"
-* "oil painting of an old king"
-* "pencil sketch of a cat wearing glasses"
+<ul>
+<li>"realistic portrait of a warrior princess, 8k"</li>
+<li>"anime boy walking in neon tokyo"</li>
+<li>"cinematic shot, desert storm, dramatic lighting"</li>
+<li>"3d render of a glowing robot"</li>
+<li>"oil painting of an old king"</li>
+<li>"pencil sketch of a cat wearing glasses"</li>
+</ul>
 
----
+<hr>
 
-## 🤝 Contributing
+<h2>🤝 Contributing</h2>
 
-Pull requests are welcome!
+<p>Pull requests are welcome! Feel free to improve UI, add new styles, or optimize backend.</p>
 
----
+<hr>
 
-## 📄 License
+<h2>📄 License</h2>
+<p>MIT License</p>
 
-MIT License
-
----
+<hr>
 
 <div align="center">
 
-## ⭐ If you like this project, give it a star!
+<h2>⭐ If you like this project, give it a star!</h2>
 
-**"Creativity meets technology — bringing your imagination to life"**
+<strong>"Creativity meets technology — bringing your imagination to life"</strong>
 
 </div>
 
 ---
 
-If you want, I can also:
-
-✅ Optimize your README for SEO
-✅ Add badges, tables, emojis
-✅ Auto-generate TOC
-✅ Improve formatting for GitHub marketplace
-
-Just tell me!
