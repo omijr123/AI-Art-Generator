@@ -47,7 +47,7 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 
 
 
-![pic3](https://postimg.cc/4KSrKPpt)
+![pic3](https://i.postimg.cc/PxXhRFx6/1.png)
 
 
 
@@ -85,6 +85,8 @@ The backend uses **Stable Diffusion** & **Hugging Face Inference API** to genera
 ### -- VS Code (Generated Results) --
 
 ![pic6](https://i.postimg.cc/6pxdGdTT/9.png)
+
+
 ![pic7](https://i.postimg.cc/3W5DmT8G/10.png)
 
 </div>
