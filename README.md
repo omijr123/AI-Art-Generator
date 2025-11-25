@@ -141,22 +141,22 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/q7VhF02J/1.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/B6NjtKkQ/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/6p13prPB/1.jpg" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/8ctGnDQ1/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <h3>Category 2: Anime</h3>
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/ydWHX3W8/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/HLkxRxj4/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/PrY9xTFZ/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/s2NwmNNs/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <p align="center">
   <strong>Videos Output</strong><br><br>
-  <img src="https://i.postimg.cc/2S8r8tmL/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
-  <img src="https://i.postimg.cc/9FcjJk4j/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/rsnmR5p1/1.png" width="45%" style="max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/mDT2dmzj/2.png" width="45%" style="max-height: 300px; object-fit: contain;">
 </p>
 
 <h3>Category 3: Cinematic</h3>
@@ -205,7 +205,7 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 
 <p align="center">
   <strong>Images Output</strong><br><br>
-  <img src="https://i.postimg.cc/pXkJ3sZT/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/FsCdYXfG/1-(1).png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
