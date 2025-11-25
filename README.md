@@ -57,7 +57,7 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/1zyLmVZT/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/W45Yq3vd/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
