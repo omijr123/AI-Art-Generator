@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Art Studio | Transform Ideas into Visual Masterpieces</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>🎨 AI Art Studio</h1>
+                    <p class="tagline">Transform your vision into stunning digital art</p>
+                </div>
+                <div class="theme-toggle">
+                    <button id="theme-toggle" class="theme-btn" aria-label="Toggle theme">
+                        <span class="theme-icon">🌙</span>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Generator Card -->
+            <div class="generator-card card">
+                <div class="card-header">
+                    <h2>Create Your Masterpiece</h2>
+                    <p class="subtitle">Describe your vision and let AI bring it to life</p>
+                </div>
+
+                <div class="generation-form">
+                    <!-- Prompt Input -->
+                    <div class="form-group">
+                        <label for="prompt" class="form-label">
+                            <span class="label-text">Describe your vision</span>
+                            <span class="char-count" id="char-count">0/500</span>
+                        </label>
+                        <textarea 
+                            id="prompt" 
+                            name="prompt" 
+                            rows="4" 
+                            placeholder="Example: A serene landscape with mountains and a lake at sunset, digital art style..."
+                            maxlength="500"
+                            class="form-textarea"
+                        ></textarea>
+                    </div>
+
+                    <!-- Style Selection -->
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="style" class="form-label">Art Style</label>
+                            <select id="style" name="style" class="form-select">
+                                <option value="realistic">🎨 Realistic</option>
+                                <option value="anime">🇯🇵 Anime</option>
+                                <option value="cinematic">🎬 Cinematic</option>
+                                <option value="3d_render">🖥️ 3D Render</option>
+                                <option value="painting">🖼️ Oil Painting</option>
+                                <option value="sketch">✏️ Sketch</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="duration" class="form-label">Video Duration</label>
+                            <select id="duration" name="duration" class="form-select">
+                                <option value="3">3 seconds</option>
+                                <option value="4" selected>4 seconds</option>
+                                <option value="5">5 seconds</option>
+                                <option value="6">6 seconds</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Enhance Prompt -->
+                    <div class="form-group checkbox-group">
+                        <input type="checkbox" id="enhancePrompt" name="enhancePrompt" class="form-checkbox" checked>
+                        <label for="enhancePrompt" class="checkbox-label">
+                            <span class="checkmark"></span>
+                            Enhance prompt for better results
+                        </label>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="button-group">
+                        <button type="button" id="generateImage" class="btn btn-primary">
+                            <span class="btn-icon">🖼️</span>
+                            Generate Image
+                        </button>
+                        <button type="button" id="generateVideo" class="btn btn-secondary">
+                            <span class="btn-icon">🎥</span>
+                            Generate Video
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loading" class="loading-card card hidden">
+                <div class="loading-content">
+                    <div class="spinner"></div>
+                    <h3>Creating your artwork...</h3>
+                    <p>This may take 30-60 seconds. Please be patient.</p>
+                    <div class="progress-container">
+                        <div class="progress-bar">
+                            <div class="progress-fill"></div>
+                        </div>
+                    </div>
+                    <div class="model-info">
+                        <span>Using: runwayml/stable-diffusion-v1-5</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Results Section -->
+            <div id="result" class="result-card card hidden">
+                <div class="result-header">
+                    <h3>🎉 Your Generated Artwork</h3>
+                    <button id="close-result" class="close-btn" aria-label="Close results">×</button>
+                </div>
+                
+                <div class="output-container">
+                    <img id="outputImage" class="output-media hidden" alt="Generated artwork">
+                    <video id="outputVideo" class="output-media hidden" controls playsinline preload="metadata">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+
+                <div id="resultInfo" class="result-info"></div>
+
+                <div class="result-actions">
+                    <button id="downloadBtn" class="btn btn-download hidden">
+                        <span class="btn-icon">💾</span>
+                        Download
+                    </button>
+                    <button id="generateAgain" class="btn btn-secondary">
+                        <span class="btn-icon">🔄</span>
+                        Create Another
+                    </button>
+                </div>
+            </div>
+
+            <!-- Error Section -->
+            <div id="error" class="error-card card hidden">
+                <div class="error-header">
+                    <h3>❌ Generation Failed</h3>
+                </div>
+                <div class="error-content">
+                    <p id="errorMessage"></p>
+                    <button id="retryBtn" class="btn btn-primary">
+                        <span class="btn-icon">🔄</span>
+                        Try Again
+                    </button>
+                </div>
+            </div>
+
+            <!-- Info Section -->
+            <div class="info-card card">
+                <div class="info-header">
+                    <h3>ℹ️ About This Generator</h3>
+                </div>
+                <div class="info-content">
+                    <p>This AI art generator uses <strong>runwayml/stable-diffusion-v1-5</strong>, 
+                    known for its excellent balance of quality and creativity in AI art generation.</p>
+                    
+                    <div class="tips">
+                        <h4>💡 Tips for better results:</h4>
+                        <ul>
+                            <li>Be descriptive and specific in your prompts</li>
+                            <li>Use the "Enhance prompt" option for better quality</li>
+                            <li>Try different art styles for varied results</li>
+                            <li>First generation may take longer as the model loads</li>
+                            <li>Videos include smooth zoom effects for dynamic content</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Powered by <strong>runwayml/stable-diffusion-v1-5</strong> & <strong>Flask</strong></p>
+            <p class="footer-note">Generating beautiful AI art with cutting-edge technology</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

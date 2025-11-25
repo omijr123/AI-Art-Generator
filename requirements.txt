@@ -1,0 +1,15 @@
+flask==2.3.3
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+transformers==4.36.2
+diffusers==0.26.3
+accelerate==0.26.1
+pillow==10.2.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+requests==2.31.0
+python-dotenv==1.0.0
+huggingface-hub==0.20.3
+safetensors==0.4.2
+omegaconf==2.3.0
