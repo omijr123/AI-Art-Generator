@@ -97,15 +97,15 @@ The backend uses <strong>Stable Diffusion</strong> & <strong>Hugging Face Infere
 <h3>VS Code Workspace</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/zfs5JX0j/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/hGvfgyPn/1.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/B65W458j/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/FHWHPyg9/2.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/13Vjy025/7.png" width="85%" style="max-height: 425px; object-fit: contain;">
+  <img src="https://i.postimg.cc/vHXYBrK7/7.png" width="85%" style="max-height: 425px; object-fit: contain;">
 </p>
 
 
