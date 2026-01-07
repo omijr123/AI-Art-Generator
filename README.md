@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Language-Python-yellow">
 <img src="https://img.shields.io/badge/Model-Stable%20Diffusion-orange">
 
-<br><br> <strong>Transform your imagination into stunning AI-generated images & videos</strong>
+<br><br> <strong>Transform your imagination into stunning AI-generated images & videos</strong> 
 
 </div>
 
